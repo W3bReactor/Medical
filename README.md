@@ -1,2 +1,2 @@
 # Medical
-Medical site
+Hello!
